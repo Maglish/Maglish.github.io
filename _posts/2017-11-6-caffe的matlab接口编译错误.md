@@ -3,14 +3,14 @@
 CXXFLAGS += -MMD -MP 
 CXXFLAGS += -std=c++11
 
-# 遇到这个问题在终端输入：
++ 遇到这个问题在终端输入：
 
 <img src = "https://i.imgur.com/6Wnsjkf.png">
 ```
 export LD_LIBRARY_PATH=/usr/local/MATLAB/R2013b/sys/os/glnxa64 *这里要替换成系统的matlab路径*  
 export LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libstdc++.so.6  
 ```
-# 接着遇到这个问题，这时候输入：
++ 接着遇到这个问题，这时候输入：
 
 <img src = "https://i.imgur.com/fNA3PDb.png">
 ```
