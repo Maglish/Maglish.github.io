@@ -1,6 +1,6 @@
 # Site settings
-title: Hello World
-SEOTitle: Hello blog | By YiHao
+title: Hello Blog
+SEOTitle: Hello Blog | By YiHao
 header-img: img/post-bg-desk.jpg
 email: yihaohit@gmail.com
 description: "Every failure is leading towards success."
@@ -21,7 +21,7 @@ RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
 github_username:    yihao31
-facebook_username:  郝毅
+#facebook_username:  郝毅
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
@@ -69,11 +69,11 @@ disqus_username: qiubaiying
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
+#ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+#ga_domain: auto
 
 
 
