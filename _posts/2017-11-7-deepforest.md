@@ -12,8 +12,6 @@ tags:
     - Deep Learning
 ---
 
-<div align=left> 
-
 # deep forest : Towrads an alternative to Deep Neural Networks
 
 
