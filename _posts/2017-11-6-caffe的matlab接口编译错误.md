@@ -6,6 +6,7 @@ date:       2017-11-6
 author:     yihao
 header-img: img/2017-11-6-header.png
 catalog: 	 true
+category: public 
 tags:
     - caffe
 ---
