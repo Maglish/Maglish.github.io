@@ -11,6 +11,9 @@ tags:
     - Machine Learning 
     - Ensemble Learning
     - Deep Learning
+layout: default
+comments: true
+
 ---
 
 # deep forest : Towrads an alternative to Deep Neural Networks
