@@ -11,7 +11,6 @@ tags:
     - Machine Learning 
     - Ensemble Learning
     - Deep Learning
-layout: default
 comments: true
 
 ---
