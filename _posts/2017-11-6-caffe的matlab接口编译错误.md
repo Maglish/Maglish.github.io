@@ -8,7 +8,7 @@ header-img: img/2017-11-6-header.png
 catalog: 	 true
 category: public 
 tags:
-    - caffe
+    - Caffe
 ---
 
 修改makefile里面的CXXFLAGS，添加CXXFLAGS += -std=c++11.然后重新编译就可以了。 
