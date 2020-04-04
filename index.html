@@ -3,7 +3,7 @@ layout: page
 description: "This is a website for our thinking, memory or something interesting."
 ---
 
-{% for post in site.categories.public %}
+{% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
